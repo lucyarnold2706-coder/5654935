@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution>
+  <Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+    <PropertyGroup>
+      <OutputType>WinExe</OutputType>
+      <TargetFramework>net6.0-windows</TargetFramework>
+      <UseWPF>false</UseWPF>
+      <UseWinForms>true</UseWinForms>
+    </PropertyGroup>
+  </Project>
+</Solution>
